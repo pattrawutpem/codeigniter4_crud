@@ -60,12 +60,14 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
 
 
-1.Download and Install Composer
-2.CMD Check version 
+# setup
+
+## 1.Download and Install Composer
+## 2.CMD Check version 
 	- composer --version
-3.Cmd VSCODE
+## 3.Cmd VSCODE
 	- composer install
-4.Run Project
+## 4.Run Project
 	- php spark serve
-5.change in env CI_ENVIRONMENT = production
+## 5.change in env CI_ENVIRONMENT = production
 	CI_ENVIRONMENT = development
