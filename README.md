@@ -62,9 +62,9 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 # setup
 ## Version
-    Composer version 2.8.5
-    PHP version 8.0.30
-    Bootstrap 4
+    Composer version 2.8.5 up
+    PHP version 8.0.30 up
+    Bootstrap 5
 ## 1.Download and Install Composer
     - https://getcomposer.org/download/
 ## 2.CMD Check version 
