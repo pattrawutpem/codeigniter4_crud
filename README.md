@@ -63,6 +63,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 # setup
 
 ## 1.Download and Install Composer
+    - https://getcomposer.org/download/
 ## 2.CMD Check version 
 	- composer --version
 ## 3.Cmd VSCODE
